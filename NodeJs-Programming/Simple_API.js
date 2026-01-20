@@ -1,9 +1,7 @@
 const http = require("http");
 const url = require("url");
-
 let todos = [];
 let idCounter = 1;
-
 const server = http.createServer((req, res) => {
   const parsedUrl = url.parse(req.url, true);
   const method = req.method;
@@ -27,7 +25,6 @@ const server = http.createServer((req, res) => {
     });
     return;
   }
-
   if (path.startsWith("/todos/") && method === "PUT") {
     const id = Number(path.split("/")[2]);
     let body = "";
