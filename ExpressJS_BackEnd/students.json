@@ -1,0 +1,37 @@
+[
+  {
+    "id": "10",
+    "name": "levi ackerman",
+    "branch": "AOT"
+  },
+  {
+    "id": "1",
+    "name": "akshat jain",
+    "branch": "cse"
+  },
+  {
+    "id": "2",
+    "name": "Omen",
+    "branch": "Controller"
+  },
+  {
+    "id": "07",
+    "name": "Tejo",
+    "branch": "Initiator"
+  },
+  {
+    "id": "12",
+    "name": "Ymir",
+    "branch": "Titan"
+  },
+  {
+    "id": "21",
+    "name": "krishan",
+    "branch": "god"
+  },
+  {
+    "id": "44",
+    "name": "dadada",
+    "branch": "bababa"
+  }
+]

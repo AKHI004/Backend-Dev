@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Akshat",
+    "branch": "cse"
+  },
+  {
+    "id": 2,
+    "name": "tyrant",
+    "branch": "ece"
+  },
+  {
+    "id": 3,
+    "name": "akhi",
+    "branch": "diploma"
+  },
+  {
+    "id": 4,
+    "name": "Hadoopa",
+    "branch": "mech"
+  },
+  {
+    "id": "5",
+    "name": "mukambo",
+    "branch": "gunda"
+  },
+  {
+    "id": "6",
+    "name": "Shubham Singh",
+    "branch": "ladkibaazi"
+  },
+  {
+    "id": "7",
+    "name": "jin mori",
+    "branch": "MMA"
+  }
+]
